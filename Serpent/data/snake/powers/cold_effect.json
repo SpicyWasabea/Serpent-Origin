@@ -1,0 +1,24 @@
+{
+	"type": "origins:action_over_time",
+	"interval": 100,
+	"entity_action": {
+		"type": "origins:apply_effect",
+		"effect": {
+			"effect": "minecraft:slowness",
+			"amplifier": 1,
+			"duration": 101,
+			"is_ambient": false,
+			"show_particles": false
+		}
+	},
+	"condition": {
+		"type": "origins:biome",
+		"condition": {
+			"type": "origins:temperature",
+			"comparison": "<=",
+			"compare_to": 0.2
+		}
+	},
+	"name": "Frozen scales",
+	"description": "Due to your scales freezing up, you are slower in cold biomes"
+}

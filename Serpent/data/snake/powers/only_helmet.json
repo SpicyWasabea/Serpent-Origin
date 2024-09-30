@@ -1,0 +1,20 @@
+{
+  "type": "origins:restrict_armor",
+  "chest": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "legs": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "feet": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "name": "Snake-hat",
+  "description": "As a snake, you are only able to wear a helmet"
+}

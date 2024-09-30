@@ -1,0 +1,10 @@
+{
+	"type": "origins:attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.max_health",
+		"value": -12.0,
+		"operation": "addition"
+	},
+	"name": "Feeble body",
+	"description": "As a baby snake, you don't have much health"
+}

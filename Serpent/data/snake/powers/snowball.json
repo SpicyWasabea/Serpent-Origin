@@ -1,0 +1,14 @@
+{
+	"type": "origins:modify_projectile_damage",
+    "name": "Snowball diff",
+    "description": "You densely pack your snowballs enough to deal damage from johnathan",
+    "damage_condition": {
+        "type": "origins:projectile",
+        "projectile": "minecraft:snowball"
+    },
+    "modifier": {
+        "operation": "addition",
+        "value": 2.0
+    },
+    "hidden": true
+}

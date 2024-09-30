@@ -1,0 +1,22 @@
+{
+    "type": "origins:modify_food",
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "minecraft:rotten_flesh"
+        }
+    },
+    "food_modifier": {
+        "name": "Increased food points",
+        "operation": "addition",
+        "value": 3.0
+    },
+    "saturation_modifier": {
+        "name": "Increased saturation points",
+        "operation": "addition",
+        "value": 2
+    },
+	"prevent_effects":true,
+	"name": "Scavenger",
+	"description": "Your scavenger diet allows you to eat rotten flesh with no drawbacks"
+}

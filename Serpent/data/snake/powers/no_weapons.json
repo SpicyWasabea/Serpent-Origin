@@ -1,0 +1,24 @@
+{
+	"type": "origins:multiple",
+	"ranged": {
+		"type": "origins:prevent_item_use",
+		"item_condition": {
+			"type": "origins:ingredient",
+			"ingredient": [{
+					"item": "minecraft:shield"
+				},
+				{
+					"item": "minecraft:crossbow"
+				},
+				{
+					"item": "minecraft:trident"
+				},
+				{
+					"item": "minecraft:bow"
+				}
+			]
+		}
+	},
+"name": "No Ranged Weapons",
+"description": "Because you have no arms, you cannot use bows, crossbows, shields, or tridents"
+}

@@ -1,0 +1,29 @@
+{
+	"powers": [
+		"snake:rotten_flesh",
+		"snake:freeze",
+		"snake:cold_effect",
+		"snake:hot_effect",
+		"snake:poison2",
+		"snake:light_green_skin",
+		"snake:no_lower_armor",
+		"snake:baby_size",
+		"snake:adolescent_size",
+		"snake:snowball",
+		"snake:poison_blob",
+		"snake:poison_bomb"
+	],
+	"icon": "minecraft:ghast_tear",
+	"unchoosable": true,
+	"order": 20001,
+	"impact": 3,
+	"name": "Serpentine",
+	"description": "As a serpentine, you have grown some arms and have some new abilities.",
+	"upgrades": [
+		{
+			"condition": "minecraft:nether/create_beacon",
+			"origin": "snake:arbok",
+			"announcement": "You have now become arbok! Press o to see new powers."
+		}
+	]
+}

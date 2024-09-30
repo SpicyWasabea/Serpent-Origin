@@ -1,0 +1,27 @@
+{
+	"powers": [
+		"snake:green_skin",
+		"snake:baby_size",
+		"snake:baby_health",
+		"snake:baby_effect",
+		"snake:freeze",
+		"snake:cold_effect",
+		"snake:hot_effect",
+		"snake:rotten_flesh",
+		"snake:poison",
+		"snake:only_helmet",
+		"snake:no_weapons"
+	],
+	"icon": "minecraft:glass_bottle",
+	"order": 20000,
+	"impact": 3,
+	"name": "Serpent",
+	"description": "A slithery poisonous animal",
+	"upgrades": [
+		{
+			"condition": "minecraft:adventure/kill_a_mob",
+			"origin": "snake:serpentine",
+			"announcement": "You have now become a serpentine! Press o to see new powers."
+		}
+	]
+}

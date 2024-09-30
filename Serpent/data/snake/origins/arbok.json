@@ -1,0 +1,23 @@
+{
+	"powers": [
+		"snake:rotten_flesh",
+		"snake:freeze",
+		"snake:cold_effect",
+		"snake:hot_effect",
+		"snake:poison_dart",
+		"snake:withering_touch",
+		"snake:arbok_effect",
+		"snake:poison_immunity",
+		"snake:baby_size",
+		"snake:adolescent_size",
+		"snake:arbok_size",
+		"snake:poison_bomb2",
+		"snake:railgun",
+	],	
+	"icon": "minecraft:ghast_tear",
+	"unchoosable": true,
+	"order": 20002,
+	"impact": 3,
+	"name": "Arbok",
+	"description": "As Arbok, you have achieved your final form."
+}

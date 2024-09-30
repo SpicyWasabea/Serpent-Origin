@@ -1,0 +1,12 @@
+{
+    "type": "origins:freeze",
+    "condition": {
+        "type": "origins:biome",
+        "condition": {
+            "type": "origins:precipitation",
+            "precipitation": "snow"
+        }
+    },
+	"name": "Freeze",
+	"description": "As a snake, you are more likely to freeze, taking additional damage in snowy biomes"
+}

@@ -1,0 +1,10 @@
+{
+    "type": "origins:effect_immunity",
+    "effects": 
+    [
+        "minecraft:poison",
+        "minecraft:wither"
+    ],
+    "name": "Poison immunity",
+    "description": "You are now immune to both poison and wither."
+}

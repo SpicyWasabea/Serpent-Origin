@@ -1,0 +1,15 @@
+{
+  "type": "origins:restrict_armor",
+  "legs": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "feet": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "name": "How nature intended",
+  "description": "As a serpentine, you are now able to wear a helmet and a chestplate"
+}

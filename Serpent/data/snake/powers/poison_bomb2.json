@@ -1,0 +1,18 @@
+{
+    "type": "origins:fire_projectile",
+    "entity_type": "minecraft:dragon_fireball",
+    "cooldown": 100,
+    "count": 1,
+    "speed": 0.001,
+    "key": {
+        "key": "key.origins.secondary_active",
+        "continuous": false
+    },
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+        "bar_index": 9
+    },
+    "name": "Poison Bomb 2.0",
+    "description": "With high accuracy, you're only able to shoot a poisonous bomb extremely fast"
+}
